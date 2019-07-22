@@ -11,4 +11,4 @@
 - ***Webpack***, a build tool; 
 - ***Jest***, a testing tool;
 - ***React Storybook***, a UI component harness;
-- ***styled-component***, to style React component;
+- ***styled-components***, to style React component;
