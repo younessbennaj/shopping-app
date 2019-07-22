@@ -10,5 +10,5 @@
 - ***redux-thunk*** Middleware to helps us make requests in a redux application
 - ***Webpack***, a build tool; 
 - ***Jest***, a testing tool;
-- ***Apollo Client***, a GraphQL client library;
 - ***React Storybook***, a UI component harness;
+- ***styled-component***, to style React component;
